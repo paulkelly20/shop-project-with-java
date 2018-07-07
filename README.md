@@ -1,4 +1,7 @@
 Online Shop.
+
+![My Image](images/OpeningPage.png?raw=1)
+
 Model an online shop.
 You are tasked with creating an e-commerce platform. Your online store may sell anything you wish. It could be a niche, boutique store or a more general 'amazon' type. Customers will log in, add items to their basket and purchase them.
 
